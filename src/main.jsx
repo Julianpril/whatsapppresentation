@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import SeguridadWhatsAppSMS from './App.jsx'
+// Usamos la versión más interactiva de la presentación
+import SeguridadWhatsAppSMS from '../whatsappPresentacion.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
